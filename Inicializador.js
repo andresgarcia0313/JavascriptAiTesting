@@ -1,4 +1,4 @@
-
+//Lanzador de código proveniente desde Javascript(Para Realizar)
 //Validar Ejecución Mostrando Texto 12:37
 alert("Ejecución Iniciada");
 //Almacenar Entradas En Una Colección
